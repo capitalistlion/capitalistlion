@@ -98,6 +98,13 @@ I mainly focus on Python, FastAPI, Flask, AWS, GCP, Docker, SQL, MySQL, and Tens
 <br/>  
 
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=capitalistlion&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>
+
+<div align="center">
             <a href="https://paypal.me/vhulapp" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 

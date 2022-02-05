@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm an entrepreneur who happens to code 💲💻
-Mainly focus on Python, FastAPI, Flask, AWS, GCP, Docker, SQL, MySQL, and Tensorflow.😆💯</div>  
+I mainly focus on Python, FastAPI, Flask, AWS, GCP, Docker, SQL, MySQL, and Tensorflow.😆💯</div>  
   
 
 - 🌱 I’m currently learning Tensorflow and Kubernetes  
@@ -94,25 +94,6 @@ Mainly focus on Python, FastAPI, Flask, AWS, GCP, Docker, SQL, MySQL, and Tensor
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=capitalistlion&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=capitalistlion&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 

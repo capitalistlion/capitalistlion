@@ -4,13 +4,13 @@
   
 
 ### <div align="center">I'm an entrepreneur who happens to code 💲💻
-I mainly focus on Python, FastAPI, React JS, Flask, AWS, GCP, Docker, SQL and MySQL.😆💯</div>  
+My main skillsets include Python (FastAPI), React JS, AWS & GCP, Docker, and MySQL😆💯</div>  
   
 
 - 🌱 I’m currently learning Node JS  
   
 
-- ❓ What stack do I use? I don't have a specific stack. I use technologies that best suit the project  
+- ❓ What stack do I use? React, MySQL/PostgreSQL & Python
   
 
 - ⚡ Fun fact: I use tabs over spaces  

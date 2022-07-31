@@ -7,10 +7,10 @@
 My main skillsets include Python (FastAPI), React JS, AWS & GCP, Docker, and MySQL😆💯</div>  
   
 
-- 🌱 I’m currently learning Node JS  
+- 🌱 Currently improving React JS skills 
   
 
-- ❓ What stack do I use? React, MySQL/PostgreSQL & Python
+- ❓ What stack do I use? React, MySQL & Python
   
 
 - ⚡ Fun fact: I use tabs over spaces  
